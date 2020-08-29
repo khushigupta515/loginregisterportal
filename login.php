@@ -85,7 +85,7 @@ echo'</br>
 else
 {echo "Account doesnot exist"."</h1>";
 echo'</br>
-<button class="btn btn-default"><a href="index.html" style="color:black;text-decoration: none;">Register</a></button>';
+<button class="btn btn-default"><a href="index2.html" style="color:black;text-decoration: none;">Register</a></button>';
 }
 
 ?>

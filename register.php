@@ -69,13 +69,13 @@ $num2= mysqli_num_rows($result2);
 if($num == 1)
 	{echo"Username already taken"."</h1>";
   echo "</br>
-<button class='btn btn-default'><a href='index.html' style='color:black;text-decoration: none;'>Try Again</a></button>";
+<button class='btn btn-default'><a href='index2.html' style='color:black;text-decoration: none;'>Try Again</a></button>";
 
 }
 else if($num2 ==1)
 {echo"Email already taken"."</h1>";
   echo "</br>
-<button class='btn btn-default'><a href='index.html' style='color:black;text-decoration: none;'>Try Again</a></button>";
+<button class='btn btn-default'><a href='index2.html' style='color:black;text-decoration: none;'>Try Again</a></button>";
 
 }
 
